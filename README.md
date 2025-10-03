@@ -61,11 +61,6 @@ Pasos básicos:
 
 ---
 
-Instrucciones de Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/usuario/SistemaReservas.git
-
 👥 Equipo de Trabajo
 
 Boris Rengel: Responsable de Backend y Configuración.
