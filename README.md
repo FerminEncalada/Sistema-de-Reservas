@@ -70,5 +70,5 @@ Instrucciones de Ejecución
 
 Boris Rengel: Responsable de Backend y Configuración.
 
-José Encalada: Responsable Backend y Documentación.
+José Encalada: Responsable Backend y Documentación del proyecto.
 
