@@ -63,8 +63,11 @@ Pasos básicos:
 
 Instrucciones de Ejecución
 1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/usuario/SistemaReservas.git
+git clone https://github.com/FerminEncalada/Sistema-de-Reservas.git
+
+2. Abrir un terminal en la carpeta sistema-reservas-backend
+
+3. Ejecutar el comando <node index.js>
 
 👥 Equipo de Trabajo
 
