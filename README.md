@@ -1,7 +1,5 @@
 # Sistema-de-Reservas
 Sistema de Reservas
-<<<<<<< HEAD
-=======
 
 Descripción General
 Este proyecto consiste en el desarrollo de un sistema de reservas para una sala de eventos, utilizando Node.js como framework backend. El objetivo es permitir a los usuarios consultar horarios disponibles y realizar reservas, mientras que los administradores pueden gestionar las mismas desde el servidor.
@@ -64,10 +62,18 @@ Pasos básicos:
 
 ---
 
+Instrucciones de Ejecución
+1. Clonar el repositorio:
+git clone https://github.com/FerminEncalada/Sistema-de-Reservas.git
+
+2. Abrir un terminal en la carpeta sistema-reservas-backend
+
+3. Ejecutar el comando <node index.js>
+
 👥 Equipo de Trabajo
 
 Boris Rengel: Responsable de Backend y Configuración.
 
 José Encalada: Responsable Backend y Documentación del proyecto.
 
->>>>>>> eae4497205054d767437844baf1900f070dad254
+
